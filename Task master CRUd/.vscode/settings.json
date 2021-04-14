@@ -1,0 +1,16 @@
+{
+    "workbench.editorAssociations": [
+    
+    ],
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "code-runner.runInTerminal": true,
+    
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_flask_sqlalchemy",
+        "pylint_flask",                 
+    ],
+    "python.linting.enabled": true
+}
