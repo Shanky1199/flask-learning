@@ -12,5 +12,6 @@
         "pylint_flask_sqlalchemy",
         "pylint_flask",                 
     ],
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
 }
